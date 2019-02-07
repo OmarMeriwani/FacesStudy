@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/p1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="3383">
               <caret line="199" selection-start-line="195" selection-end-line="199" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -22,16 +22,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pca.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/heatmap2.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -78,7 +95,9 @@
       <list>
         <option value="$PROJECT_DIR$/p1.py" />
         <option value="$PROJECT_DIR$/p2.py" />
+        <option value="$PROJECT_DIR$/pcafile.py" />
         <option value="$PROJECT_DIR$/second.py" />
+        <option value="$PROJECT_DIR$/pca.py" />
       </list>
     </option>
   </component>
@@ -124,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.second">
+  <component name="RunManager" selected="Python.pca">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="FacesStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +186,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pca" type="PythonConfigurationType" factoryName="Python">
+      <module name="FacesStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="pca" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pcafile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FacesStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Omar\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pcafile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="second" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FacesStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +250,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.pca" />
       <item itemvalue="Python.p1" />
       <item itemvalue="Python.second" />
+      <item itemvalue="Python.pcafile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pcafile" />
         <item itemvalue="Python.second" />
         <item itemvalue="Python.p1" />
       </list>
@@ -216,7 +280,7 @@
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,6 +294,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" x="0" y="0" width="354" height="686" id="Documentation" side_tool="true" weight="0.32969153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -278,10 +343,25 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/rpy2-2.9.4-py3.7-win-amd64.egg/rpy2/robjects/functions.py" />
-    <entry file="file://$PROJECT_DIR$/p2.py">
+    <entry file="file://$PROJECT_DIR$/p2.py" />
+    <entry file="file://$PROJECT_DIR$/pcafile.py" />
+    <entry file="file://$PROJECT_DIR$/p1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="74" />
+        <state relative-caret-position="3383">
+          <caret line="199" selection-start-line="195" selection-end-line="199" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -302,25 +382,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p1.py">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="199" selection-start-line="195" selection-end-line="199" />
+        <state relative-caret-position="159">
+          <caret line="3040" column="4" selection-start-line="3040" selection-start-column="4" selection-end-line="3040" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heatmap.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/heatmap2.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
